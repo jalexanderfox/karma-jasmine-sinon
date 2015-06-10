@@ -1,0 +1,28 @@
+{
+  "name": "karma-jasmine-sinon",
+  "version": "0.0.1",
+  "description": "karma plugin for jasmin-sinon npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jalexanderfox/karma-jasmine-sinon.git"
+  },
+  "keywords": [
+    "karma",
+    "jasmine",
+    "sinon"
+  ],
+  "author": "Jared Fox <jalexanderfox@gmail.com> (jalexanderfox)",
+  "license": "ISC",
+  "peerDependencies": {
+      "karma": ">=0.10",
+      "sinon": "*",
+      "jasmine": "*"
+  },
+  "engines": {
+      "node": ">= 0.10.0"
+  }
+}
